@@ -51,15 +51,6 @@ npm run start   # Production mode
 npm run seed
 ```
 
-## API Routes
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET    | /api/v1/health | Health check |
-| POST   | /api/v1/auth/login | User login |
-| POST   | /api/v1/auth/register | User registration |
-| GET    | /api/v1/users | Get users list |
-
 Full API documentation available at `/api-docs`
 
 ## Docker Support
